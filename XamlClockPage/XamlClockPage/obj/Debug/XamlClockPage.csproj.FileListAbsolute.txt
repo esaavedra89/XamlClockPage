@@ -1,0 +1,16 @@
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\XamlClockPage.dll
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\XamlClockPage.pdb
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Core.dll
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Platform.dll
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Core.pdb
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Core.xml
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.csprojResolveAssemblyReference.cache
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.csproj.CoreCompileInputs.cache
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.MainPage.xaml.g.cs
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.App.xaml.g.cs
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.dll
+C:\practicas-eleazar\Book\XamlClockPage\XamlClockPage\XamlClockPage\obj\Debug\XamlClockPage.pdb

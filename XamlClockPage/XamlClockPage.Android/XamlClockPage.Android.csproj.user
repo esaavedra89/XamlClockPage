@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SelectedDevice>Genymotion Google Nexus S - 4.1.1 - API 16 - 480x800</SelectedDevice>
+    <DefaultDevice>Nexus_One_API_21</DefaultDevice>
+  </PropertyGroup>
+</Project>
